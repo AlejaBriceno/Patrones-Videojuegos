@@ -1,5 +1,5 @@
 
-#Pattern Identification: Video Game Store
+# Pattern Identification: Video Game Store
 Identified patterns that determine whether a video game is successful or not. Trends such as sales, release year, genre, and ratings were analyzed to detect promising projects and plan advertising campaigns.
 
 ## 🛠️ Technologies used:
